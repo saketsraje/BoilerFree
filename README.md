@@ -24,7 +24,7 @@ A scheduled `cron` job will periodically update the stored event information.
 
 ### System Architecture
 
-![BoilerFree System Architecture](docs/BoilerFree_System_Diagram.png)
+![BoilerFree System Architecture](docs/System%20Architecture%20-%20CS193%20Project.drawio.png)
 
 The system consists of two main processes: automated event collection using Bash and Python, and a student-facing Flask web interface connected through a shared SQLite database.
 
